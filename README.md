@@ -1,2 +1,2 @@
 # Create-first-website
-Create a website using HTML, CSS and JavaScript
+Build a website using HTML, CSS and JavaScript
